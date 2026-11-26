@@ -36,7 +36,7 @@ Explores product catalog volume, unit sales, return rates, top-selling brands, i
 ### 3. Store Analysis (`Store Analysis Performance`)
 Evaluates store format performance, geographic presence across North America, and year-over-year YTD revenue growth.
 
-<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/b2b57c350e55dad48b365fe9abb0d2b6c711f914/Airline%20Booking/Dashboard/Overview.png" />
+<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/f26ce6faa95b8f5bd3b875a663ed5732ef0fd6c5/Sales%20Analysis%20Performance/Dashboard/Store%20Analysis.png" />
 
 * **KPIs:** Total Revenue (`1.65M`), Total Products (`2K`), Top Store Sales (`203K`), # Cities (`24`)
 * **Visuals:**
