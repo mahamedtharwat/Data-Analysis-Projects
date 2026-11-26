@@ -50,7 +50,7 @@ Analyzes geographic customer concentration, highest-spending individuals, order 
 ### 4. Product Insights
 Evaluates catalog size, pricing, media format preferences, and revenue generation across artists and music genres.
 
-![Product Insights Page](images/Product%20Insights.png)
+<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/cb8fd2f32f2fac4e53c4245a8a9ff803d73b5190/Music%20Store%20Analysis/Dashboard/Product%20Insights.png" />
 
 * **KPIs:** Total Tracks (`3.5K`), Total Revenue (`2.3K`), Tracks Sold (`2.2K`), Avg Price (`1.04`)
 * **Visuals:**
@@ -64,7 +64,7 @@ Evaluates catalog size, pricing, media format preferences, and revenue generatio
 ### 5. Employee Insights
 Tracks sales support representative performance, customer portfolio distribution, annual revenue trends, and genre sales shares by employee.
 
-![Employee Insights Page](images/Employee%20Insights.png)
+<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/cb8fd2f32f2fac4e53c4245a8a9ff803d73b5190/Music%20Store%20Analysis/Dashboard/Product%20Insights.png" />
 
 * **KPIs:** Total Employee (`8`), Total Customers (`59`), Avg Revenue (`291`), Avg Order (`52`)
 * **Visuals:**
