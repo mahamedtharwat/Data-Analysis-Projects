@@ -18,7 +18,7 @@ An interactive multi-page business intelligence dashboard built in **Microsoft E
 ### 1. Overview
 Examines application trends over issue dates, borrower employment tenure, verification status, and loan purposes.
 
-<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/b2b57c350e55dad48b365fe9abb0d2b6c711f914/Airline%20Booking/Dashboard/Overview.png" />
+<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/8a18907952dc76f53182c1f7e6a323d3184b2c19/Loan%20Application%20Data/Dashboard/Overview.png" />
 
 * **Total loan Application By Issue Date:** Line chart tracking monthly applications, peaking in `Dec` (`4.3K`), `Nov` (`4.0K`), and `Oct` (`3.8K`).
 * **Verification Status:** Pie chart breaking down applications into `Not Verified` (`16.5K`), `Verified` (`12.3K`), and `Source Verified` (`9.8K`).
