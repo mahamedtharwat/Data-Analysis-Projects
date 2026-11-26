@@ -23,7 +23,7 @@ Provides an executive overview of total sales, year-to-date revenue, costs, top-
 ### 2. Product Analysis (`Product Analysis Performance`)
 Explores product catalog volume, unit sales, return rates, top-selling brands, individual products, and interactive root-cause revenue drill-downs.
 
-<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/b2b57c350e55dad48b365fe9abb0d2b6c711f914/Airline%20Booking/Dashboard/Overview.png" />
+<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/9141d458ebc83b93bb803be81a84a2777fc9507d/Sales%20Analysis%20Performance/Dashboard/Product%20Analysis.png" />
 
 * **KPIs:** Total Products (`2K`), Total Quantity Sold (`2M`), Total Transactions (`441`), Return Rate % (`16.07%`)
 * **Visuals:**
