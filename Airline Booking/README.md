@@ -23,7 +23,7 @@ Focuses on overall booking funnel performance, completion rates, sales channels,
 ### 2. Customer Behavior
 Explores traveler preferences and trip characteristics such as add-on baggage demand, stay duration, seat preference alignment, and top origin markets.
 
-![Customer Behavior Page](images/Customer%20Behavior.png)
+https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/523246c3fe292c915aa12d2eca85ccb4eb634725/Airline%20Booking/Dashboard/Customer%20Behavior.png
 
 * **KPIs:** Total Passengers (`79.6K`), Wants Extra Baggage (`33.4K`), Avg of Purchase Lead (`85`), Avg Length of Stay (`23`), Avg of Flight Duration (`7`)
 * **Visuals:**
