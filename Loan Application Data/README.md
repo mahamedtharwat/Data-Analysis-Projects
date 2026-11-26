@@ -62,9 +62,3 @@ Focuses on loan repayment status, amounts received, loan terms, home ownership, 
 * **Pivot Tables & Pivot Charts:** Line, Column, Horizontal Bar, Donut, Pie, Funnel, and Area charts
 * **Slicers & Filter Panel:** Interactive filtering across both dashboard sheets
 
----
-
-## 🚀 How to Use
-1. Clone this repository or download the Excel file:
-   ```bash
-   git clone [https://github.com/your-username/loan-application-dashboard.git](https://github.com/your-username/loan-application-dashboard.git)
