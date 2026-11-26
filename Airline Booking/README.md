@@ -23,7 +23,7 @@ Focuses on overall booking funnel performance, completion rates, sales channels,
 ### 2. Customer Behavior
 Explores traveler preferences and trip characteristics such as add-on baggage demand, stay duration, seat preference alignment, and top origin markets.
 
-https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/523246c3fe292c915aa12d2eca85ccb4eb634725/Airline%20Booking/Dashboard/Customer%20Behavior.png
+<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/523246c3fe292c915aa12d2eca85ccb4eb634725/Airline%20Booking/Dashboard/Customer%20Behavior.png" />
 
 * **KPIs:** Total Passengers (`79.6K`), Wants Extra Baggage (`33.4K`), Avg of Purchase Lead (`85`), Avg Length of Stay (`23`), Avg of Flight Duration (`7`)
 * **Visuals:**
@@ -36,7 +36,7 @@ https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/523246c3fe292c915a
 ### 3. Market Analysis
 Highlights geographic reach, high-volume routes, and flight hour patterns to support commercial and operational planning.
 
-https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/19c5fc8d7b9c4b958d62a0cdd748e2e9893d2482/Airline%20Booking/Dashboard/Market%20Analysis.png
+<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/19c5fc8d7b9c4b958d62a0cdd748e2e9893d2482/Airline%20Booking/Dashboard/Market%20Analysis.png" />
 
 * **KPIs:** Total Passengers (`79.6K`), Avg of Purchase Lead (`85`), Avg Length of Stay (`23`), Avg of Flight Hour (`9`), Avg of Flight Duration (`7`)
 * **Visuals:**
