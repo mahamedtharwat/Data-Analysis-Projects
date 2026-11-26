@@ -84,6 +84,6 @@ Tracks sales support representative performance, customer portfolio distribution
 ---
 
 ## 🛠️ Tools & Technologies
-* **Visualization:** Power BI / Excel *(update based on your source file format)*
+* **Visualization:** Power BI
 * **Data Modeling & Measures:** DAX / Power Query (Chinook Music Store Dataset)
 
