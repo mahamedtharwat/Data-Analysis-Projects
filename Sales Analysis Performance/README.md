@@ -9,7 +9,7 @@ An interactive 4-page business intelligence dashboard built in **Microsoft Power
 ### 1. Sales Overview (`Sales Overview Performance`)
 Provides an executive overview of total sales, year-to-date revenue, costs, top-performing cities, state rankings, brand shares, and revenue vs. cost trends.
 
-<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/b2b57c350e55dad48b365fe9abb0d2b6c711f914/Airline%20Booking/Dashboard/Overview.png" />
+<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/8d0a5149d1184493fcdd6f4181eff32ad352cdb3/Sales%20Analysis%20Performance/Dashboard/Sales%20Overview.png" />
 
 * **KPIs:** Total Sales (`1.93M`), Revenue YTD (`967.23K`), Avg Revenue Per Store/City (`68.82K`), Total Cost (`1.65M`)
 * **Visuals:**
