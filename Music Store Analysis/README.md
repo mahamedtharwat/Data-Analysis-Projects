@@ -22,7 +22,7 @@ Provides an executive summary of store revenue, order volume, top-performing art
 ### 2. Sales Analysis
 Breaks down revenue contribution by top artists, quarterly revenue trends, top countries, and genre performance.
 
-<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/37cb5531ad3f1be7f01249b3bc77ce0257f1640c/Music%20Store%20Analysis/Dashboard/Sales%20Analysis.png" />
+<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/7595f5b53bb076205dc3f3c1022428451bbf9a7d/Music%20Store%20Analysis/Dashboard/Sales%20Analysis.png" />
 
 * **KPIs:** Total Revenue (`2.3K`), Tracks Sold (`2.2K`), Total Orders (`412`), Revenue Growth (`24%`)
 * **Visuals:**
