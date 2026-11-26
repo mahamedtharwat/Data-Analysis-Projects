@@ -9,7 +9,7 @@ An interactive multi-page business intelligence dashboard built in **Microsoft E
 ### 1. Overview
 Focuses on overall booking funnel performance, completion rates, sales channels, and booking trends by trip type and flight day.
 
-![Overview Page](images/Overview.png)
+https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/b2b57c350e55dad48b365fe9abb0d2b6c711f914/Airline%20Booking/Dashboard/Overview.png
 
 * **KPIs:** Total Passengers (`79.6K`), Incomplete Bookings (`84%`), Completed Bookings (`16%`), Avg of Purchase Lead (`85`), Avg of Passengers (`2`)
 * **Visuals:**
