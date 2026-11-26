@@ -30,7 +30,7 @@ Examines application trends over issue dates, borrower employment tenure, verifi
 ### 2. Highlights
 Focuses on loan repayment status, amounts received, loan terms, home ownership, and risk metrics (`DTI` & interest rates) by loan status.
 
-<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/b2b57c350e55dad48b365fe9abb0d2b6c711f914/Airline%20Booking/Dashboard/Overview.png" />
+<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/519d0a38a1dde859ec5190b0d26851d2ad3c574d/Loan%20Application%20Data/Dashboard/Highlight.png" />
 
 * **Total loan By Home Ownership:** Horizontal bar chart led by `RENT` (`18.439K`) and `MORTGAGE` (`17.198K`), followed by `OWN` (`2.838K`).
 * **Total loan Application By Last Payment Date:** Area chart showing monthly payment volume from `Jan` to `Dec`, peaking in `May` (`4.2K`) and `Mar` (`3.7K`).
