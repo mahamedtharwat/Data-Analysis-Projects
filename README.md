@@ -44,34 +44,6 @@ The tools used vary depending on the project and may include:
 
 ---
 
-## 📂 Repository Structure
-
-```text
-Data-Analysis-Projects/
-│
-├── Airline Booking/
-│   └── README.md
-│
-├── Call Center Data/
-│   └── README.md
-│
-├── HR Attrition Data/
-│   └── README.md
-│
-├── Loan Application Data/
-│   └── README.md
-│
-├── Music Store Analysis/
-│   └── README.md
-│
-├── Sales Analysis Performance/
-│   └── README.md
-│
-└── README.md
-```
-
----
-
 ## 🎯 Repository Objectives
 
 - Apply data analysis techniques to real-world business scenarios.
