@@ -2,7 +2,7 @@
 
 An interactive business intelligence dashboard built in **Microsoft Excel** analyzing call center performance, sales outcomes, representative metrics, and customer demographics across **1,000 total calls** and **96,623** in purchase amount. Includes a dynamic **Filter Panel** (`Rating rounded` and `City`) for interactive exploration.
 
-<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/b2b57c350e55dad48b365fe9abb0d2b6c711f914/Airline%20Booking/Dashboard/Overview.png" />
+<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/50c952b5c814f41deb44a44afd671e2a006cfb9b/Call%20Center%20Data/Dashboard/Call%20Center%20Dashboard.png" />
 
 ---
 
