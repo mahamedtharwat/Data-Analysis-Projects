@@ -64,7 +64,7 @@ Evaluates catalog size, pricing, media format preferences, and revenue generatio
 ### 5. Employee Insights
 Tracks sales support representative performance, customer portfolio distribution, annual revenue trends, and genre sales shares by employee.
 
-<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/cb8fd2f32f2fac4e53c4245a8a9ff803d73b5190/Music%20Store%20Analysis/Dashboard/Product%20Insights.png" />
+<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/333becdeaa922114c7e442f2a86477d7e8751edf/Music%20Store%20Analysis/Dashboard/Employee%20Insights.png" />
 
 * **KPIs:** Total Employee (`8`), Total Customers (`59`), Avg Revenue (`291`), Avg Order (`52`)
 * **Visuals:**
