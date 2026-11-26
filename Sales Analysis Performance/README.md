@@ -9,7 +9,7 @@ An interactive 4-page business intelligence dashboard built in **Microsoft Power
 ### 1. Sales Overview (`Sales Overview Performance`)
 Provides an executive overview of total sales, year-to-date revenue, costs, top-performing cities, state rankings, brand shares, and revenue vs. cost trends.
 
-![Sales Overview Page](images/Sales%20Overview.png)
+<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/b2b57c350e55dad48b365fe9abb0d2b6c711f914/Airline%20Booking/Dashboard/Overview.png" />
 
 * **KPIs:** Total Sales (`1.93M`), Revenue YTD (`967.23K`), Avg Revenue Per Store/City (`68.82K`), Total Cost (`1.65M`)
 * **Visuals:**
@@ -23,7 +23,7 @@ Provides an executive overview of total sales, year-to-date revenue, costs, top-
 ### 2. Product Analysis (`Product Analysis Performance`)
 Explores product catalog volume, unit sales, return rates, top-selling brands, individual products, and interactive root-cause revenue drill-downs.
 
-![Product Analysis Page](images/Product%20Analysis.png)
+<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/b2b57c350e55dad48b365fe9abb0d2b6c711f914/Airline%20Booking/Dashboard/Overview.png" />
 
 * **KPIs:** Total Products (`2K`), Total Quantity Sold (`2M`), Total Transactions (`441`), Return Rate % (`16.07%`)
 * **Visuals:**
@@ -36,7 +36,7 @@ Explores product catalog volume, unit sales, return rates, top-selling brands, i
 ### 3. Store Analysis (`Store Analysis Performance`)
 Evaluates store format performance, geographic presence across North America, and year-over-year YTD revenue growth.
 
-![Store Analysis Page](images/Store%20Analysis.jpg)
+<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/b2b57c350e55dad48b365fe9abb0d2b6c711f914/Airline%20Booking/Dashboard/Overview.png" />
 
 * **KPIs:** Total Revenue (`1.65M`), Total Products (`2K`), Top Store Sales (`203K`), # Cities (`24`)
 * **Visuals:**
@@ -49,7 +49,7 @@ Evaluates store format performance, geographic presence across North America, an
 ### 4. Customer Analysis (`Customer Analysis Performance`)
 Analyzes customer base size, average revenue per customer, gender distribution, top spenders, and a searchable transaction ledger.
 
-![Customer Analysis Page](images/Customer%20Analysis.png)
+<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/b2b57c350e55dad48b365fe9abb0d2b6c711f914/Airline%20Booking/Dashboard/Overview.png" />
 
 * **KPIs:** Total Customers (`10K`), Total Revenue (`1.65M`), Top Customer (`Ida Rodriguez`), Revenue Per Customer (`161`)
 * **Visuals:**
