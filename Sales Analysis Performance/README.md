@@ -49,7 +49,7 @@ Evaluates store format performance, geographic presence across North America, an
 ### 4. Customer Analysis (`Customer Analysis Performance`)
 Analyzes customer base size, average revenue per customer, gender distribution, top spenders, and a searchable transaction ledger.
 
-<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/b2b57c350e55dad48b365fe9abb0d2b6c711f914/Airline%20Booking/Dashboard/Overview.png" />
+<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/a31a7eb81c059f668f02f4db01ddca0545fdf19c/Sales%20Analysis%20Performance/Dashboard/Customer%20Analysis.png" />
 
 * **KPIs:** Total Customers (`10K`), Total Revenue (`1.65M`), Top Customer (`Ida Rodriguez`), Revenue Per Customer (`161`)
 * **Visuals:**
