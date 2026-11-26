@@ -36,7 +36,7 @@ Breaks down revenue contribution by top artists, quarterly revenue trends, top c
 ### 3. Customer Insights
 Analyzes geographic customer concentration, highest-spending individuals, order patterns, and average customer spend over time.
 
-![Customer Insights Page](images/Customer%20Insights.png)
+<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/38bd502f0378cec7975e3e3d55d99df42aa78d2d/Music%20Store%20Analysis/Dashboard/Customer%20Insights.png" />
 
 * **KPIs:** Total Revenue (`2.3K`), Total Customers (`59`), Avg Customer (`39`), Avg Order (`39`)
 * **Visuals:**
