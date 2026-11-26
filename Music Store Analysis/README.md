@@ -9,7 +9,7 @@ An interactive 5-page business intelligence dashboard analyzing digital music st
 ### 1. Overview
 Provides an executive summary of store revenue, order volume, top-performing artists, monthly revenue trajectory, and leading country markets.
 
-![Overview Page](images/Overview_3.png)
+<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/24c90473e427623fd386777aaa88b69214e42a1b/Music%20Store%20Analysis/Dashboard/Overview.png" />
 
 * **KPIs:** Total Revenue (`2.3K`), Tracks Sold (`2.2K`), Total Orders (`412`), Total Customers (`59`)
 * **Visuals:**
