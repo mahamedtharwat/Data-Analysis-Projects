@@ -48,9 +48,3 @@ An interactive business intelligence dashboard built in **Microsoft Excel** anal
 * **Pivot Tables & Pivot Charts** (Column, Waterfall, Area, Donut, and Map visuals)
 * **Slicers & Filter Panel** for interactive cross-filtering
 
----
-
-## 🚀 How to Use
-1. Clone the repository or download the Excel file from the repository:
-   ```bash
-   git clone [https://github.com/your-username/call-center-dashboard.git](https://github.com/your-username/call-center-dashboard.git)
