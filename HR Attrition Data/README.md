@@ -2,7 +2,7 @@
 
 An interactive business intelligence dashboard built in **Microsoft Excel** analyzing workforce demographics, employee retention, attrition rates, and educational backgrounds across **2,925 total employees**. Equipped with a dynamic **Filter Panel** (`Job Role`, `Relationship Satisfaction`, `Work Life Balance`, and `Job Involvement`) for multi-dimensional HR analysis.
 
-<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/b2b57c350e55dad48b365fe9abb0d2b6c711f914/Airline%20Booking/Dashboard/Overview.png" />
+<img align="center" alt="image" src="https://github.com/mahamedtharwat/Data-Analysis-Projects/blob/e01d48982ec007d1c3c02d75e2afabbf136e6d20/HR%20Attrition%20Data/Dashboard/HR%20Attrition%20Dashboard.png" />
 
 ---
 
